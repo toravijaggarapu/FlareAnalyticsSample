@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126785287157",
+    "project_id": "flare-poc-54366",
+    "storage_bucket": "flare-poc-54366.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126785287157:android:077025f39542600f1ce6bc",
+        "android_client_info": {
+          "package_name": "com.flare.analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSI0Tg_dNSo-QsSdwpY64Hof4v_C881c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
